@@ -1,6 +1,7 @@
 # 🚀 Job Portal Backend System (Dockerized)
 
-A **Job Portal Backend Application** built using **Spring Boot**, **JWT Authentication**, **MySQL**, and **Docker**, following layered architecture and industry best practices.
+A **Job Portal Backend Application** built and Dockerized a Job Portal Backend using Spring Boot, JWT Authentication, BCrypt Password Encryption, MySQL, and Docker Compose with secured RESTful APIs and layered architecture.
+
 
 This system allows:
 
